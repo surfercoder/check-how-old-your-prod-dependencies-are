@@ -1,0 +1,12 @@
+{
+  "name": "check-how-old-your-prod-dependencies-are",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Agustin Cassani",
+  "license": "MIT",
+  "description": "Small script to check the last published date of your production dependencies so you can update the old ones."
+}
